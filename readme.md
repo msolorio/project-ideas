@@ -9,8 +9,8 @@ a list of ideas for projects to build out in javascript
 - in vanilla javascript
 - in react
 
-### list of ideas
-- go through algorithms on https://projecteuler.net/ and code them out with objects and arrays
+## list of ideas
+- :star: go through algorithms on https://projecteuler.net/ and code them out with objects and arrays
 - a scheduling app
 	- scheduling trains
 	- scheduling people to certian trains
@@ -21,11 +21,12 @@ a list of ideas for projects to build out in javascript
 - a hacking game where commands are entered into the terminal
 - an online store
 - a game of battleship
-- a came of cards like go fish
+- a game of cards like go fish
 - a website to showcase my music
 - a terminal
 - a simple to do list
-- an app that works with google maps to finds locations
+- an app that works with google maps to find locations
 - a musical composition app
 - a content management system
+- recreate Trello
 
