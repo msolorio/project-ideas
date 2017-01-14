@@ -1,5 +1,5 @@
 *Each of these examples could be done*
-- just front end (get pracrice specifically on front end)
+- just front end (get practice specifically on front end)
 - front end and back end (practice communicating between the two)
 
 *The front end portion could be done*
@@ -13,6 +13,8 @@
 	- as an exercise try breaking out function into smaller functions
 - an app that tracks study hours
 - go through algorithms on https://projecteuler.net/ and code them out with objects and arrays
+- recreate Trello
+- create a javascript framework
 - a scheduling app
 	- scheduling trains
 	- scheduling people to certian trains
@@ -30,5 +32,10 @@
 - an app that works with google maps to find locations
 - a musical composition app
 - a content management system
-- recreate Trello
+- a musical instrument in the browser
+- a favorite quotes app
+	- store favorite quotes by author
+	- allow random display of a quote
+	- allow search by author
+	- allow search by keyword
 
