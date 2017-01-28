@@ -12,6 +12,7 @@
 	- use problems as jumping off points for other problems to solve
 	- as an exercise try breaking out function into smaller functions
 - an app that tracks study hours
+- note taking app
 - go through algorithms on https://projecteuler.net/ and code them out with objects and arrays
 - recreate Trello
 - create a javascript framework
@@ -29,7 +30,7 @@
 - a website to showcase my music
 - a terminal
 - a simple to do list
-- an app that works with google maps to find locations
+- an app that works with google maps to log favorite locations
 - a musical composition app
 - a content management system
 - a musical instrument in the browser
