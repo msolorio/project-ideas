@@ -26,7 +26,8 @@
 - a hacking game where commands are entered into a terminal interface in the browser
 - an online store
 - a game of battleship
-- a game of cards like go fish
+- a game of cards like go fish or 21
+- a command line program
 - a website to showcase my music
 - a terminal
 - a simple to do list
