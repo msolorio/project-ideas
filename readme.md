@@ -1,31 +1,18 @@
-*Each of these examples could be done*
-- just front end (get practice specifically on front end)
-- front end and back end (practice communicating between the two)
-
-*The front end portion could be done*
-- in vanilla javascript
-- in react
-
 ## list of ideas
-- :star: go through algorithm problems on freecodecamp
-	- and solve each in as many ways as possible
-	- use problems as jumping off points for other problems to solve
-	- as an exercise try breaking out function into smaller functions
 - an app that tracks study hours
+- a grocery app
+	- keeps track of current inventory in the fridge
+	- allows for creation of a grocery list
+- a game of battleship
 - note taking app
-- go through algorithms on https://projecteuler.net/ and code them out with objects and arrays
 - recreate Trello
 - create a javascript framework
 - a scheduling app
 	- scheduling trains
 	- scheduling people to certian trains
 	- personal calandar scheduling app
-- a grocery app
-	- keeps track of current inventory in the fridge
-	- allows for creation of a grocery list
 - a hacking game where commands are entered into a terminal interface in the browser
 - an online store
-- a game of battleship
 - a game of cards like go fish or 21
 - a command line program
 - a website to showcase my music
@@ -41,3 +28,7 @@
 	- allow search by author
 	- allow search by keyword
 
+## Tech Toolkit
+Server Side: Node, Express, Socket.io, Mongoose, MongoDB
+Testing: Mocha, Chai, Ava
+Front End: vanilla JS, jQuery, React, Redux, Chart.js, D3
