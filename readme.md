@@ -1,9 +1,15 @@
 ## list of ideas
-- an app that tracks study hours
-- a grocery app
-	- keeps track of current inventory in the fridge
-	- allows for creation of a grocery list
+:star: - a grocery app
+	- keeps track of current grocery inventory
+	- automatically creates partitioned grocery lists by store
+	- integrates with online food shopping platforms
+	- allows a user to track trends in their spending and use
+		- generally or per item
 - a game of battleship
+- a musical composition app
+- a musical instrument in the browser
+- an app that tracks study hours
+- a photo database
 - note taking app
 - recreate Trello
 - create a javascript framework
@@ -19,16 +25,16 @@
 - a terminal
 - a simple to do list
 - an app that works with google maps to log favorite locations
-- a musical composition app
 - a content management system
-- a musical instrument in the browser
 - a favorite quotes app
 	- store favorite quotes by author
 	- allow random display of a quote
 	- allow search by author
 	- allow search by keyword
 
-## Tech Toolkit
-Server Side: Node, Express, Socket.io, Mongoose, MongoDB
-Testing: Mocha, Chai, Ava
-Front End: vanilla JS, jQuery, React, Redux, Chart.js, D3
+## Toolkit
+<br/>Server Side: Node, Express, Mongoose, MongoDB
+<br/>Testing: Mocha, Chai, Ava
+<br/>Front End Js: vanilla JS, jQuery, React, Redux, Chart.js, D3
+<br/>Front End CSS: CSS, Bootstrap, Less
+<br/>Additional: Socket.io, Johnny-Five
