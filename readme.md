@@ -1,14 +1,22 @@
-## list of ideas
-:star: - a grocery app
+## List of Ideas
+
+### Favorites
+- a grocery app
 	- keeps track of current grocery inventory
 	- automatically creates partitioned grocery lists by store
 	- integrates with online food shopping platforms
 	- allows a user to track trends in their spending and use
 		- generally or per item
-- a game of battleship
-- a musical composition app
-- a musical instrument in the browser
+- a game of battleship (or an original variation)
 - an app that tracks study hours
+- a musical composition app
+- a beatmaking app (a la Fruity Loops)
+
+### Other Cool Ideas
+- a resource game like Settlers of Catan
+- checkers
+- connect four
+- a musical instrument in the browser
 - a photo database
 - note taking app
 - recreate Trello
@@ -27,10 +35,9 @@
 - an app that works with google maps to log favorite locations
 - a content management system
 - a favorite quotes app
-	- store favorite quotes by author
-	- allow random display of a quote
-	- allow search by author
-	- allow search by keyword
+  - entering of quotes
+  - random display of a quote
+  - search by author, keyword, category
 
 ## Toolkit
 <br/>Server Side: Node, Express, Mongoose, MongoDB
