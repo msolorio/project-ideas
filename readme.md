@@ -15,23 +15,29 @@
   - possibly with users and a social, collaborative component
 
 ### Other Cool Ideas
+_in no particular order_
 - a resource game like Settlers of Catan
 - remake Settlers of Catan as a collaborative, resource sharing game
+- a painting app with HTML canvas
+  - possibly with users and a social, collaborative component
 - checkers
 - connect four
 - a musical instrument in the browser
 - a photo database
-- note taking, storage, and organization app
+- note taking, storage, organization, and searching app
 - a giphy creating a sharing social app
-- recreate trello (but better)
-- recreate craigslist (but better)
-- recreate facebook (but better)
-- recreate gmail (???, but better)
-- recreate itunes (but wayyyy better)
-- a painting app with HTML canvas
+- a photo taking, sharing, storage, organization and searching app
+- recreate trello (but different)
+- recreate craigslist (but different)
+- recreate facebook (but different)
+- recreate meetup (but different)
+- recreate gmail (???, but different)
+- recreate itunes (but better)
 - create a JavaScript framework
 - a real time chat app
+- a real time video chat app
 - a chat bot
+- an app using Open AI
 - a create-your-own-adventure building tool
   - allowing users to create 'create-your-own-adventure' stories
 - an app that sends emails
