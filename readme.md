@@ -31,6 +31,7 @@ _in no particular order_
 - recreate craigslist (but different)
 - recreate facebook (but different)
 - recreate meetup (but different)
+- recreate soundcloud (but different)
 - recreate gmail (???, but different)
 - recreate itunes (but better)
 - create a JavaScript framework
@@ -38,6 +39,7 @@ _in no particular order_
 - a real time video chat app
 - a chat bot
 - an app using Open AI
+- an IoT device using the Tessel 2 and Johnny-Five
 - a create-your-own-adventure building tool
   - allowing users to create 'create-your-own-adventure' stories
 - an app that sends emails
@@ -61,7 +63,7 @@ _in no particular order_
 
 ## Toolkit
 <br/>Server Side: Node, Express, Mongoose, MongoDB, Passport
-<br/>Testing: Mocha, Chai, Ava
+<br/>Testing: Mocha, Chai, Ava, Supertest, Enzyme
 <br/>Front End Js: vanilla JS, jQuery, React, Redux, Chart.js, D3
 <br/>Front End CSS: CSS, Bootstrap, Less, Flexbox
 <br/>Additional: Socket.io, Johnny-Five
