@@ -7,7 +7,7 @@
 	- integrates with online food shopping platforms
 	- allows a user to track trends in their spending and use
 		- generally or per item
-- a game of battleship (or an original variation)
+- a game of battleship (or original variation)
 - an app that tracks study hours
 - a musical composition app
   - possibly with users and a social, collaborative component
@@ -25,6 +25,7 @@ _in no particular order_
 - a musical instrument in the browser
 - a photo database
 - note taking, storage, organization, and searching app
+- a memory enhancement flash card style teaching tool, game
 - a giphy creating a sharing social app
 - a photo taking, sharing, storage, organization and searching app
 - recreate trello (but different)
