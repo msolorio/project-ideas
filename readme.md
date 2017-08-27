@@ -13,11 +13,10 @@
   - possibly with users and a social, collaborative component
 - a beatmaking app (a la Fruity Loops)
   - possibly with users and a social, collaborative component
+- a pagination component
 
 ### Other Cool Ideas
 _in no particular order_
-- a resource game like Settlers of Catan
-- remake Settlers of Catan as a collaborative, resource sharing game
 - a painting app with HTML canvas
   - possibly with users and a social, collaborative component
 - checkers
@@ -26,7 +25,7 @@ _in no particular order_
 - a photo database
 - note taking, storage, organization, and searching app
 - a memory enhancement flash card style teaching tool, game
-- a giphy creating a sharing social app
+- a giphy creating and sharing social app
 - a photo taking, sharing, storage, organization and searching app
 - recreate trello (but different)
 - recreate craigslist (but different)
@@ -36,6 +35,8 @@ _in no particular order_
 - recreate gmail (???, but different)
 - recreate itunes (but better)
 - create a JavaScript framework
+- a resource game like Settlers of Catan
+- remake Settlers of Catan as a collaborative, resource sharing game
 - a real time chat app
 - a real time video chat app
 - a chat bot
