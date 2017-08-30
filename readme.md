@@ -9,18 +9,37 @@
 		- generally or per item
 - a game of battleship (or original variation)
 - an app that tracks study hours
-- a musical composition app
-  - possibly with users and a social, collaborative component
-- a beatmaking app (a la Fruity Loops)
-  - possibly with users and a social, collaborative component
-- a pagination component
 
 ### Other Cool Ideas
 _in no particular order_
+- a musical composition app
+	- possibly with users and a social, collaborative component
+- a beatmaking app (a la Fruity Loops)
+	- possibly with users and a social, collaborative component
+- a drumkit in the browser triggered by keystrokes (a la Wes Bos)
+- clock that displays the current time
+- a text-to-speech memo taking app using speech recognition with the web speech API (wat!)
+- a photobooth with filters using the canvas API
+- a runner aid app
+	- tracks runners speed, direction, and path traveled using geolocation API
+- whack a mole game
+- a reading application using speech synthesis with the web speech API
+	- controlling speed and pitch
+- a timer
+- a stopwatch
+- an alarm clock
 - a painting app with HTML canvas
   - possibly with users and a social, collaborative component
+- a pagination component
 - checkers
 - connect four
+- go
+- chinese checkers
+- parcheesi
+- chess
+- backgammon
+- risk-like board game
+- minesweeper
 - a musical instrument in the browser
 - a photo database
 - note taking, storage, organization, and searching app
