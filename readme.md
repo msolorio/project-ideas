@@ -31,6 +31,7 @@ _in no particular order_
 - a painting app with HTML canvas
   - possibly with users and a social, collaborative component
 - a pagination component
+- app that uses the HTML5 drag and drop API
 - checkers
 - connect four
 - go
