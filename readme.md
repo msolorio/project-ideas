@@ -39,6 +39,7 @@ _in no particular order_
 - parcheesi
 - chess
 - backgammon
+- tetris
 - risk-like board game
 - minesweeper
 - a musical instrument in the browser
