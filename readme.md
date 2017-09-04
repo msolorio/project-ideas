@@ -17,14 +17,19 @@ _in no particular order_
 - a beatmaking app (a la Fruity Loops)
 	- possibly with users and a social, collaborative component
 - a drumkit in the browser triggered by keystrokes (a la Wes Bos)
-- clock that displays the current time
+- app that allows neighbors and local residents to
+	- easily share and socialize household items (tools, common cooking supplies, etc...)
+	- share services (repair, cooking, fruit/veggie gardening, laundry, baby sitting, pet sitting, etc...)
+	- and post neighborhood community events
 - a text-to-speech memo taking app using speech recognition with the web speech API (wat!)
 - a photobooth with filters using the canvas API
 - a runner aid app
 	- tracks runners speed, direction, and path traveled using geolocation API
+- a workout tracker app
 - whack a mole game
 - a reading application using speech synthesis with the web speech API
 	- controlling speed and pitch
+- clock that displays the current time
 - a timer
 - a stopwatch
 - an alarm clock
