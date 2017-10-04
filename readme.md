@@ -22,11 +22,12 @@ _in no particular order_
 	- share services (repair, cooking, fruit/veggie gardening, laundry, baby sitting, pet sitting, etc...)
 	- and post neighborhood community events
 - a text-to-speech memo taking app using speech recognition with the web speech API (wat!)
+- a taco tour app - given a starting location, ending location, and set of preferences, app creates a tour route of taco shops along the way
+- an app that uses a cron job to regularly collect data from an API and store that data for the app to use
 - a photobooth with filters using the canvas API
 - a runner aid app
 	- tracks runners speed, direction, and path traveled using geolocation API
 - a workout tracker app
-- whack a mole game
 - a reading application using speech synthesis with the web speech API
 	- controlling speed and pitch
 - clock that displays the current time
@@ -46,6 +47,7 @@ _in no particular order_
 - backgammon
 - tetris
 - risk-like board game
+- simon says
 - minesweeper
 - a musical instrument in the browser
 - a photo database
