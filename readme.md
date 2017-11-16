@@ -7,6 +7,8 @@
 	- integrates with online food shopping platforms
 	- allows a user to track trends in their spending and use
 		- generally or per item
+- connect four
+- app that transcribes spoken word journal entries using text to speech API
 - a game of battleship (or original variation)
 - an app that tracks study hours
 
@@ -22,6 +24,7 @@ _in no particular order_
 	- share services (repair, cooking, fruit/veggie gardening, laundry, baby sitting, pet sitting, etc...)
 	- and post neighborhood community events
 - a text-to-speech memo taking app using speech recognition with the web speech API (wat!)
+- app that records and stores audio memos
 - a taco tour app - given a starting location, ending location, and set of preferences, app creates a tour route of taco shops along the way
 - an app that uses a cron job to regularly collect data from an API and store that data for the app to use
 - a photobooth with filters using the canvas API
@@ -39,7 +42,6 @@ _in no particular order_
 - a pagination component
 - app that uses the HTML5 drag and drop API
 - checkers
-- connect four
 - go
 - chinese checkers
 - parcheesi
