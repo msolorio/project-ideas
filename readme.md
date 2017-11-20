@@ -8,6 +8,7 @@
 	- allows a user to track trends in their spending and use
 		- generally or per item
 - connect four
+- a library that generates a unique random hash
 - app that transcribes spoken word journal entries using text to speech API
 - a game of battleship (or original variation)
 - an app that tracks study hours
