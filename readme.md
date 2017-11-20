@@ -1,20 +1,22 @@
 ## List of Ideas
 
-### Possible Next Projects
+### Current
+- connect four
 - a grocery app
 	- keeps track of current grocery inventory
 	- automatically creates partitioned grocery lists by store
 	- integrates with online food shopping platforms
 	- allows a user to track trends in their spending and use
 		- generally or per item
-- connect four
+
+### Possible Next Projects
 - a library that generates a unique random hash
-- app that transcribes spoken word journal entries using text to speech API
+- app that transcribes spoken word journal entries using speech to text API
 - a game of battleship (or original variation)
-- an app that tracks study hours
 
 ### Other Cool Ideas
 _in no particular order_
+- an app that tracks study hours
 - a musical composition app
 	- possibly with users and a social, collaborative component
 - a beatmaking app (a la Fruity Loops)
