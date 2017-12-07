@@ -1,6 +1,7 @@
 ## List of Ideas
 
 ### Current
+- A local library application
 - connect four
 - a grocery app
 	- keeps track of current grocery inventory
@@ -53,6 +54,16 @@ _in no particular order_
 - tetris
 - risk-like board game
 - simon says
+- Poker
+- Solitaire
+- Go Fish
+- 21
+- hearts
+- crazy eights
+- rummy
+- spades
+- bs
+- egyptian rat screw
 - minesweeper
 - a musical instrument in the browser
 - a photo database
@@ -84,7 +95,6 @@ _in no particular order_
 - a scheduling app
 - a hacking game where commands are entered into a terminal interface in the browser
 - an online store
-- a game of cards like go fish or 21
 - a command line program
 - a website to showcase my music
 - a terminal
@@ -98,8 +108,8 @@ _in no particular order_
 
 ## Toolkit
 <br/>Server Side: Node, Express, Mongoose, MongoDB, Passport
-<br/>Testing: Mocha, Chai, Ava, Supertest, Enzyme
-<br/>Front End Js: vanilla JS, jQuery, React, Redux, Chart.js, D3
-<br/>Front End CSS: CSS, Bootstrap, Less, Flexbox
+<br/>Front End Js: React, Redux, React Router, Chart.js, D3, vanilla Js, jQuery
+<br/>Front End CSS: CSS, Flexbox, SCSS/Sass/Less/Stylus, Bootstrap
+<br/>Testing: Mocha, Chai, Ava, Supertest, Enzyme, Jest
 <br/>Additional: Socket.io, Johnny-Five
 <br/>And more!
