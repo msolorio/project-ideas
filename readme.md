@@ -23,6 +23,9 @@ _in no particular order_
 - a beatmaking app (a la Fruity Loops)
 	- possibly with users and a social, collaborative component
 - a drumkit in the browser triggered by keystrokes (a la Wes Bos)
+- a word processor
+- a spreadsheet creation tool
+- a slideshow creation and presentation tool
 - app that allows neighbors and local residents to
 	- easily share and socialize household items (tools, common cooking supplies, etc...)
 	- share services (repair, cooking, fruit/veggie gardening, laundry, baby sitting, pet sitting, etc...)
