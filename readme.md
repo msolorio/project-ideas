@@ -26,6 +26,7 @@ _in no particular order_
 - a word processor
 - a spreadsheet creation tool
 - a slideshow creation and presentation tool
+- a calendar / schedule management tool
 - app that allows neighbors and local residents to
 	- easily share and socialize household items (tools, common cooking supplies, etc...)
 	- share services (repair, cooking, fruit/veggie gardening, laundry, baby sitting, pet sitting, etc...)
@@ -51,6 +52,7 @@ _in no particular order_
 - checkers
 - go
 - chinese checkers
+- frogger
 - parcheesi
 - chess
 - backgammon
