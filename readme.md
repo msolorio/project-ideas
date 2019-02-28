@@ -1,37 +1,31 @@
 ## List of Ideas
 
-### Current
-- A local library application
-- connect four
-- a grocery app
-	- keeps track of current grocery inventory
-	- automatically creates partitioned grocery lists by store
-	- integrates with online food shopping platforms
-	- allows a user to track trends in their spending and use
-		- generally or per item
-
-### Possible Next Projects
-- a library that generates a unique random hash
-- app that transcribes spoken word journal entries using speech to text API
-- a game of battleship (or original variation)
+### Next Projects
+- a music creation and collaboration app
+  - users can set up accounts
+  - create beats
+  - save beats
+  - share beats
+- a note taking/journaling app
+  - using speech to text API
+  - store notes
+  - audio memos
+- local library
+- ecommerce
 
 ### Other Cool Ideas
 _in no particular order_
 - an app that tracks study hours
-- a musical composition app
-	- possibly with users and a social, collaborative component
-- a beatmaking app (a la Fruity Loops)
-	- possibly with users and a social, collaborative component
 - a drumkit in the browser triggered by keystrokes (a la Wes Bos)
 - a word processor
 - a spreadsheet creation tool
 - a slideshow creation and presentation tool
 - a calendar / schedule management tool
+- a library that generates a unique random hash
 - app that allows neighbors and local residents to
 	- easily share and socialize household items (tools, common cooking supplies, etc...)
 	- share services (repair, cooking, fruit/veggie gardening, laundry, baby sitting, pet sitting, etc...)
 	- and post neighborhood community events
-- a text-to-speech memo taking app using speech recognition with the web speech API (wat!)
 - app that records and stores audio memos
 - a taco tour app - given a starting location, ending location, and set of preferences, app creates a tour route of taco shops along the way
 - an app that uses a cron job to regularly collect data from an API and store that data for the app to use
@@ -50,6 +44,7 @@ _in no particular order_
 - a pagination component
 - app that uses the HTML5 drag and drop API
 - checkers
+- battleship
 - go
 - chinese checkers
 - frogger
@@ -110,6 +105,15 @@ _in no particular order_
   - entering of quotes
   - random display of a quote
   - search by author, keyword, category
+
+### Completed
+- connect four
+- a grocery app
+	- keeps track of current grocery inventory
+	- automatically creates partitioned grocery lists by store
+	- integrates with online food shopping platforms
+	- allows a user to track trends in their spending and use
+		- generally or per item
 
 ## Toolkit
 <br/>Server Side: Node, Express, Mongoose, MongoDB, Passport
