@@ -1,15 +1,26 @@
 ## List of Ideas
 
 ### Next Projects
+- Pitch Master
+  - a social networking app for entrepreneurs and investors
+  - entrepreneurs can
+    - record and save business pitches in video form
+    - send pitches to investors
+  - investors can
+    - watch pitch videos
+    - rate pitches and give feedback
+
 - a music creation and collaboration app
   - users can set up accounts
   - create beats
   - save beats
   - share beats
+
 - a note taking/journaling app
   - using speech to text API
   - store notes
   - audio memos
+  
 - local library
 - ecommerce
 
